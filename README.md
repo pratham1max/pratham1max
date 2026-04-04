@@ -1,6 +1,7 @@
 ## Hi I'm Pratham Prajapati 
 
-I am a highly motivated developer dedicated to continuous learning and tackling complex engineering challenges every day. My core technical skills include Python, SQL, and C++, and I am always eager to expand my toolset to build robust, production-ready solutions. I am deeply passionate about open-source software. I believe contributing to the global developer community is the most powerful way to dedicate my time and build tools that make a positive impact on the world.
+<!--I am a highly motivated developer dedicated to continuous learning and tackling complex engineering challenges every day. My core technical skills include Python, SQL, and C++, and I am always eager to expand my toolset to build robust, production-ready solutions. I am deeply passionate about open-source software. I believe contributing to the global developer community is the most powerful way to dedicate my time and build tools that make a positive impact on the world.
+-->
 <!--
 **pratham1max/pratham1max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,5 +14,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
--->
+
+
 - ⚡ Fun fact: I am aiming for ICPC
+-->
